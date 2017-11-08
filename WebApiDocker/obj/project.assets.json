@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\vmitlikopp001\\source\\repos\\WebApiDocker\\WebApiDocker.csproj",
+      "projectUniqueName": "C:\\Users\\vmitlikopp001\\source\\repos\\WebApiDocker\\WebApiDocker\\WebApiDocker.csproj",
       "projectName": "WebApiDocker",
-      "projectPath": "C:\\Users\\vmitlikopp001\\source\\repos\\WebApiDocker\\WebApiDocker.csproj",
+      "projectPath": "C:\\Users\\vmitlikopp001\\source\\repos\\WebApiDocker\\WebApiDocker\\WebApiDocker.csproj",
       "packagesPath": "C:\\Users\\vmitlikopp001\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vmitlikopp001\\source\\repos\\WebApiDocker\\obj\\",
+      "outputPath": "C:\\Users\\vmitlikopp001\\source\\repos\\WebApiDocker\\WebApiDocker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
