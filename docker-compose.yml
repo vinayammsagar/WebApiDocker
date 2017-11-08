@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  webapidocker:
+    image: webapidocker
+    build:
+      context: ./WebApiDocker
+      dockerfile: Dockerfile
